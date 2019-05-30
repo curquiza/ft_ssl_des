@@ -1,4 +1,4 @@
-# algo, arg cmd, expect_error, outputfile
+# cmd, expect_error, output file
 
 INPUT_CMDS = [
     { 'cmd': './ft_ssl',                                                        'error': True,  'output': 'usage' },
